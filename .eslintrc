@@ -1,6 +1,6 @@
 {
-    "extends": ["standard-with-typescript"],
-    "rules": {
-        "no-console": "warn"
-    }
+  "extends": ["standard-with-typescript"],
+  "rules": {
+    "no-console": "warn"
+  }
 }
