@@ -5,5 +5,4 @@ module.exports = {
   coverageDirectory: 'coverage',
   preset: 'ts-jest',
   testMatch: ['**/**/*.spec.ts']
-
 }
